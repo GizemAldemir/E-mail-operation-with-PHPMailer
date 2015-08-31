@@ -1,1 +1,2 @@
-# PHP-ile-mail-g-nderme
+Kullanıcıdan alınan verilerle belirtilen adrese mail gönderen php kodu.
+-Ayarlar gmail için yapılmıştır.-
