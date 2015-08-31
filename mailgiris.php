@@ -5,12 +5,6 @@
    <head>
        <title>COMPOSE E-MAIL</title>
    <style>
-       textarea
-       {
-           border:1px solid black;
-           padding:100px;
-           margin:10px;
-       }
 
         body
         {
@@ -32,7 +26,7 @@
         Subject : <br>
         <input type="text" name="subject" size="40"> <br>
         Mail : <br>
-        <textarea name="mail"></textarea><br><br>
+        <textarea rows="30" name="mail" cols="70"></textarea><br><br>
         <input type="submit" value="Send">
         <input type="reset" value="Reset">
 
@@ -43,3 +37,4 @@
 
 
 </hmtl>
+
